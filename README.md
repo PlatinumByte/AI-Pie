@@ -21,3 +21,6 @@ Go to the Chat section and run the cell. (hover your cursor and press the play b
 ### **Update 2.0 - AI Pie Breeze Update!**
   - Added and fixed the "AI is thinking..." label
   - Fixed some bugs
+
+# Notice
+**This text was translated by AI**
